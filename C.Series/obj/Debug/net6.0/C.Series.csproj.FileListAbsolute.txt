@@ -1,0 +1,12 @@
+D:\Alura\DIO\CSharp\FProject\C.Series\obj\Debug\net6.0\C.Series.csproj.AssemblyReference.cache
+D:\Alura\DIO\CSharp\FProject\C.Series\obj\Debug\net6.0\C.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alura\DIO\CSharp\FProject\C.Series\obj\Debug\net6.0\C.Series.AssemblyInfoInputs.cache
+D:\Alura\DIO\CSharp\FProject\C.Series\obj\Debug\net6.0\C.Series.AssemblyInfo.cs
+D:\Alura\DIO\CSharp\FProject\C.Series\obj\Debug\net6.0\C.Series.csproj.CoreCompileInputs.cache
+D:\Alura\DIO\CSharp\FProject\C.Series\bin\Debug\net6.0\C.Series.deps.json
+D:\Alura\DIO\CSharp\FProject\C.Series\bin\Debug\net6.0\C.Series.dll
+D:\Alura\DIO\CSharp\FProject\C.Series\bin\Debug\net6.0\ref\C.Series.dll
+D:\Alura\DIO\CSharp\FProject\C.Series\bin\Debug\net6.0\C.Series.pdb
+D:\Alura\DIO\CSharp\FProject\C.Series\obj\Debug\net6.0\C.Series.dll
+D:\Alura\DIO\CSharp\FProject\C.Series\obj\Debug\net6.0\ref\C.Series.dll
+D:\Alura\DIO\CSharp\FProject\C.Series\obj\Debug\net6.0\C.Series.pdb

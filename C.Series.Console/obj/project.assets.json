@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "C.Series/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/C.Series.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/C.Series.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C.Series/1.0.0": {
+      "type": "project",
+      "path": "../C.Series/C.Series.csproj",
+      "msbuildProject": "../C.Series/C.Series.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "C.Series >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\elman\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Alura\\DIO\\CSharp\\FProject\\C.Series.Console\\C.Series.Console.csproj",
+      "projectName": "C.Series.Console",
+      "projectPath": "D:\\Alura\\DIO\\CSharp\\FProject\\C.Series.Console\\C.Series.Console.csproj",
+      "packagesPath": "C:\\Users\\elman\\.nuget\\packages\\",
+      "outputPath": "D:\\Alura\\DIO\\CSharp\\FProject\\C.Series.Console\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\elman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Alura\\DIO\\CSharp\\FProject\\C.Series\\C.Series.csproj": {
+              "projectPath": "D:\\Alura\\DIO\\CSharp\\FProject\\C.Series\\C.Series.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
